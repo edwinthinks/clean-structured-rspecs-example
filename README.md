@@ -1,4 +1,4 @@
-# What is this?
+# clean-structured-rspecs-example [![Build Status](https://travis-ci.org/edwinthinks/clean-structured-rspecs-example.svg?branch=master)](https://travis-ci.org/edwinthinks/clean-structured-rspecs-example)
 
 A minimal setup Ruby example on how to structure specs using [RSpec](http://rspec.info/) for (I believe) higher clarity and less lines of code.
 
