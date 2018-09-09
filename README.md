@@ -1,6 +1,6 @@
 # What is this?
 
-A minimal setup Ruby example on how to structure specs for (I believe) higher clarity and less lines of code.
+A minimal setup Ruby example on how to structure specs using [RSpec](http://rspec.info/) for (I believe) higher clarity and less lines of code.
 
 ## Installation
 
@@ -8,7 +8,7 @@ A minimal setup Ruby example on how to structure specs for (I believe) higher cl
 
 2. Clone this repo & navigate to root directory
 
-3. Run `bundle`
+3. Run `bundle` to install the gem dependencies for RSpec.
 
 ## Run Specs
 
