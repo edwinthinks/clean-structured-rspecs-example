@@ -2,6 +2,8 @@
 
 A minimal setup Ruby example on how to structure specs using [RSpec](http://rspec.info/) for (I believe) higher clarity and less lines of code.
 
+Explation can be found here.
+
 ## Installation
 
 1. You first need to install [bundler](https://bundler.io/) if you haven't already. 
